@@ -29,6 +29,7 @@ Este é um projeto simples de um Timer Pomodoro, desenvolvido com HTML, CSS e Ja
 - `index.html`: Arquivo principal contendo a estrutura do projeto.
 - `style.css`: Estilo responsável pelo design visual.
 - `script.js`: Arquivo que implementa a lógica do timer.
+- Acesse o projeto: https://guilhermexl.github.io/pomodoro-project/
 
 ## Contribuições
 Contribuições são bem-vindas! Caso queira melhorar ou adicionar novas funcionalidades, sinta-se à vontade para abrir um pull request.
